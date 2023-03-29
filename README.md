@@ -5,7 +5,9 @@
 ⚡ В настоящее время окончил курс и с удовольствием продолжаю дальнейшее освоение выбранной специальности. Нахожусь в активном поиске работы для полноценного погружения мир данных и получения драгоценного опыта работы в проектах.
 
 ---
-<div align="center"> ### :hammer_and_wrench: Tools </div>
+<div align="center"> ### :hammer_and_wrench: Tools 
+</div>
+
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="Scikit-learn" width="60" height="60"/>&nbsp;
