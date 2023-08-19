@@ -1,4 +1,4 @@
-### Привет, меня зовут Юрий !👋 Я - специалист Data Science. 
+### 👋 Топлю за Data Science
 
 ---
 ### <div align="center"> :hammer_and_wrench: Languages & Tools
