@@ -1,4 +1,4 @@
-### 👋 Топлю за Data Science
+### Data Science
 
 ---
 ### <div align="center"> :hammer_and_wrench: Languages & Tools
